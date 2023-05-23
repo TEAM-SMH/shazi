@@ -4,7 +4,7 @@
 
 rm -rf shazi
 
-git clone https://github.com/ShaziaAbbasi/shazi
+git clone https://github.com/TEAM-SHM/shazi
 
 cd shazi
 
